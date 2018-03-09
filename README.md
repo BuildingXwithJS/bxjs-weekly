@@ -1,2 +1,3 @@
-# bxjs-weekly
-BxJS Weekly news podcast links collection
+# BxJS Weekly news podcast
+
+This repository container links collection for weekly news [podcast](https://www.twitch.tv/yamalight) on javascript news.
