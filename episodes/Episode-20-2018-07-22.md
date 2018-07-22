@@ -1,0 +1,60 @@
+## Articles & News:
+
+- [The future of WebAssembly - A look at upcoming features and proposals](https://blog.scottlogic.com/2018/07/20/wasm-future.html)
+- [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1)
+- [Reversing JS Malware From marveloptics.com](https://blog.jse.li/posts/marveloptics-malware/)
+- [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
+- [How to build an npm worm](https://jamie.build/how-to-build-an-npm-worm)
+- [Use React in Cycle.js and vice-versa](https://staltz.com/use-react-in-cyclejs-and-vice-versa.html)
+- [Ask HN: Were you happy moving your API from REST to GraphQL?](https://news.ycombinator.com/item?id=17565508)
+- [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9)
+- [Build a Realtime Serverless GraphQL API with Websockets on AWS](https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/)
+- [Deploying Applications with Confidence Using Kubernetes](https://nemethgergely.com/deploying-nodejs-apps-to-kubernetes/)
+- [Compiler in JavaScript using ANTLR](https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f)
+- [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+- [Tutorial - Build an Instagram clone with Vue.js and CSSGram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
+- [15 HTML element methods you’ve potentially never heard of](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
+- [Build an Excel add-in using Vue](https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-vue?wt.mc_id=drivethedash-twitter-buhollan)
+- [Reddit’s Voting UI in Vanilla vs React vs Vue vs Hyperapp: shedding light on the purpose of SPA frameworks](https://itnext.io/reddits-voting-ui-in-vanilla-vs-react-vs-vue-vs-hyperapp-shedding-light-on-the-purpose-of-spa-ee6b6ac9a8cc)
+- [How Fast Can You Learn React?](https://hackernoon.com/how-fast-can-you-learn-react-49c4bdabc0df)
+- [Two-factor authentication protection for packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages)
+- [Proposal for a new `<portal>` element](https://github.com/KenjiBaheux/portals/blob/master/explainer.md)
+- [Tip: Access package.json values in node using env vars](https://twitter.com/housecor/status/1019281933593989121?s=09)
+- [Tip: import JS modules from npm on web](https://twitter.com/_developit/status/1020047407558594560?s=09)
+- [Introducing Themes to CodeSandbox](https://medium.com/@compuives/introducing-themes-e6818088bfc2)
+- [Introducing Universal Package Manager to Repl.it](https://repl.it/site/blog/packager)
+- [The Shell Introduction I Wish I Had](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k)
+
+## Releases:
+
+- [Node v10.7.0](https://nodejs.org/en/blog/release/v10.7.0/)
+- [npm v6.2.0](https://blog.npmjs.org/post/175871462900/v620)
+- [Hoverboard v2.0.0](https://medium.com/gdg-lviv/hoverboard-v2-0-0-released-today-a3729aa074e6)
+- [CanJS 5.0](https://www.bitovi.com/blog/canjs-5)
+
+## Libs & demos:
+
+- [Tiny Emus](https://floooh.github.io/tiny8bit/)
+- [guppy](https://github.com/joshwcomeau/guppy)
+- [TOAST UI Grid](http://ui.toast.com/tui-grid/)
+- [libRmath.js](https://github.com/jacobbogers/libRmath.js)
+- [wasmBoy](https://github.com/torch2424/wasmBoy)
+- [pushbar.js](https://github.com/oncebot/pushbar.js)
+- [popbox.js](https://github.com/oncebot/popbox.js)
+- [draxt](https://github.com/ramhejazi/draxt)
+- [asciichart](https://github.com/kroitor/asciichart)
+- [start](https://github.com/deepsweet/start)
+- [z](https://github.com/z-pattern-matching/z)
+- [wasmjs-fat-binaries](https://github.com/jayphelps/wasmjs-fat-binaries)
+- [fast-check](https://github.com/dubzzz/fast-check)
+- [v8n](https://github.com/imbrn/v8n)
+- [pnpm](https://github.com/pnpm/pnpm)
+- [jasper](https://github.com/jasperapp/jasper)
+- [lepto](https://github.com/leptojs/lepto)
+- [jwebassembly](https://github.com/i-net-software/jwebassembly)
+
+## Silly stuff:
+
+- [XKCD: Software development](https://xkcd.com/2021/)
+- [Why Is Google Translate Spitting Out Sinister Religious Prophecies?](https://motherboard.vice.com/en_us/article/j5npeg/why-is-google-translate-spitting-out-sinister-religious-prophecies)
+- [Work less, get more: New Zealand firm's four-day week an 'unmitigated success'](https://www.theguardian.com/world/2018/jul/19/work-less-get-more-new-zealand-firms-four-day-week-an-unmitigated-success)
