@@ -13,7 +13,6 @@
 - [Building Ambitious Apps with MDX](https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/)
 - [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/)
 - [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
-- [Introducing Squirrelly: a fast, lightweight, and simple JS template engine](https://hackernoon.com/introducing-squirrelly-a-fast-lightweight-and-simple-js-template-engine-70a873d765c9)
 - [Streams For the Win: A Performance Comparison of Node.js Methods for Reading Large Datasets](https://itnext.io/streams-for-the-win-a-performance-comparison-of-nodejs-methods-for-reading-large-datasets-pt-2-bcfa732fa40e)
 - [Headless WordPress + Next.js — What We Learned](https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a)
 - React Conf [day 1](https://www.youtube.com/watch?v=dpw9EHDh2bM) and [day 2](https://www.youtube.com/watch?v=WXYPpY_mElQ)
