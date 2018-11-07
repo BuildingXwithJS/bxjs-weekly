@@ -15,7 +15,7 @@
 - [Blockchain using NodeJS and Socket.io](https://dev.to/sadarshannaiynar/blockchain-using-nodejs-and-socketio-5gbe)
 - [Effective Docker Healthchecks For Node.js](https://medium.com/@patrickleet/effective-docker-healthchecks-for-node-js-b11577c3e595)
 
-## Tips, tricks & bit-sized awesomeness
+## Tips, tricks & bit-sized awesomeness:
 
 - [There’s a Hook for that](https://twitter.com/dan_abramov/status/1058471337616990208?s=09)
 - [V8js is optimizing it to minimize the overhead of array destructuring](https://twitter.com/mathias/status/1057611461999112192)
