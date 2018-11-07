@@ -1,4 +1,5 @@
-Articles & News:
+## Articles & News:
+
 - [TC39 proposal for Object.fromEntries](https://github.com/bakkot/object-from-entries)
 - [Creating suspense in React 16.2](https://medium.com/@pete_gleeson/creating-suspense-in-react-16-2-dcf4cb1a683f)
 - [Automatically creating an accessible color palette from any color? Sure!](https://medium.com/confrere/automatically-creating-an-accessible-color-palette-from-any-color-sure-e735c3f2f45e)
@@ -21,7 +22,8 @@ Articles & News:
 - [Firefox Quantum Extensions Challenge](https://hacks.mozilla.org/2018/03/firefox-quantum-extensions-challenge/)
 - [TC39 developer engagement survey](https://docs.google.com/forms/d/e/1FAIpQLSfoZy6pQSWO9H88QyStTSHYAvFSDvs9B751C3y4AdDKs66a1g/viewform)
 
-Releases:
+## Releases:
+
 - [Firefox 59.0](https://www.mozilla.org/en-US/firefox/59.0/releasenotes/)
 - [Repl.it 1.0](https://repl.it/site/blog/platform)
 - [billboard.js 1.3.0](https://medium.com/@alberto.park/billboard-js-1-3-0-is-released-today-45d774ea9a7)
@@ -31,7 +33,8 @@ Releases:
 - [TypeScript 2.8 RC](https://blogs.msdn.microsoft.com/typescript/2018/03/15/announcing-typescript-2-8-rc/)
 - [MobX 4](https://medium.com/@mweststrate/mobx-4-better-simpler-faster-smaller-c1fbc08008da)
 
-Libs & demos:
+## Libs & demos:
+
 - [Making voice assistants in JavaScript](https://twitter.com/holtbt/status/973613495949209600)
 - [Evie theme](https://evie.undraw.co/)
 - [Money-clip](https://github.com/HenrikJoreteg/money-clip)
@@ -47,5 +50,6 @@ Libs & demos:
 - [pell](https://github.com/jaredreich/pell/)
 - [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams)
 
-Silly stuff:
+## Silly stuff:
+
 - [Javascript](https://twitter.com/bruno_simon/status/973568267984961538?s=09)
