@@ -1,0 +1,25 @@
+{
+  "name": "bxjs-weekly",
+  "version": "1.0.0",
+  "description": "This repository contains links collection for weekly javascript news podcast - **BxJS Weekly**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildingXwithJS/bxjs-weekly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BuildingXwithJS/bxjs-weekly/issues"
+  },
+  "homepage": "https://github.com/BuildingXwithJS/bxjs-weekly#readme",
+  "dependencies": {
+    "elasticlunr": "^0.9.5",
+    "highland": "^2.13.0",
+    "md-2-json": "^1.0.5"
+  }
+}
