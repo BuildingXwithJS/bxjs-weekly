@@ -21,7 +21,7 @@
 - [Slides: npm and the future of JavaScript](https://slides.com/seldo/npm-future-of-javascript)
 - [13 Games in ≤ 13kB of JavaScript (by GitHub)](https://blog.github.com/2018-10-05-js13kgames-highlights-2018/)
 
-## Tips, tricks & bit-sized awesomeness
+## Tips, tricks & bit-sized awesomeness:
 
 - [JavaScript really made it. We now tweak CPUs to make it faster](https://twitter.com/steipete/status/1047415826083729408)
 - [Edge is implementing Web Components](https://twitter.com/justinfagnani/status/1049412742124167168?s=09)

@@ -1,4 +1,4 @@
-### Small BxJS Weekly update
+### Small BxJS Weekly update:
 
 Podcast is now also published on [Soundcould](https://soundcloud.com/bxjsweekly) and [Castbox](https://castbox.fm/channel/id1378315?country=us)!
 

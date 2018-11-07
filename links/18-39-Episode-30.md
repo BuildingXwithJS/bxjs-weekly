@@ -21,7 +21,7 @@
 - [Building With Workers KV, a Fast Distributed Key-Value Store](https://blog.cloudflare.com/building-with-workers-kv/)
 - [Hacktoberfest 2018 is coming soon!](https://hacktoberfest.digitalocean.com/)
 
-## Tips and tricks
+## Tips and tricks:
 
 - [Use the HTTPArchive to check if your perception of quirks in local content can be seen in the numbers](https://twitter.com/JohnMu/status/1043416865320656896)
 - [Screenshot any html element from the Safari inspector](https://twitter.com/juliussohn/status/1044198231398395905)

@@ -18,7 +18,7 @@
 - React Conf [day 1](https://www.youtube.com/watch?v=dpw9EHDh2bM) and [day 2](https://www.youtube.com/watch?v=WXYPpY_mElQ)
 - [Don’t Make Squirrel Burgers](http://leewaterman.com/dont-make-squirrel-burgers/)
 
-## Tips, tricks & bit-sized awesomeness
+## Tips, tricks & bit-sized awesomeness:
 
 - [Getting Started with Next.js in 5 Minutes](https://dev.to/benhayehudi/getting-started-with-nextjs-in-5-minutes-19ah)
 - [Eliminate an entire category of bugs with a few simple tools](https://blog.kentcdodds.com/eliminate-an-entire-category-of-bugs-with-a-few-simple-tools-f0dd2aaf4bc9)

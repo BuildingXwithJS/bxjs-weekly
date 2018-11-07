@@ -19,7 +19,7 @@
 - [Node.js Foundation and JS Foundation Announce Intent to Create Joint Organization to Support the Broad Node.js and JavaScript Communities](https://www.linuxfoundation.org/news/2018/10/node-js-foundation-and-js-foundation-announce-intent-to-create-joint-organization-to-support-the-broad-node-js-and-javascript-communities/)
 - [Plans for the Next Iteration of Vue.js](https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf)
 
-## Tips & tricks
+## Tips & tricks:
 
 - [I'm trying out Yarn Plug’n’Play and it's incredible](https://twitter.com/dan_abramov/status/1047583342072406022?s=09)
 - [The Nodejs Modules Team reached consensus on a minimal kernel for all future iterations on the design of ESM in node.js](https://twitter.com/MylesBorins/status/1047610800725250048?s=09)

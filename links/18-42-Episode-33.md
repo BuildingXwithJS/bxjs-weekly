@@ -20,7 +20,7 @@
 - [A wild way to check if a number is prime using a regular expression](https://itnext.io/a-wild-way-to-check-if-a-number-is-prime-using-a-regular-expression-4edfb725f895)
 - [Get ready! (GitHub) Game Off returns in November](https://blog.github.com/2018-10-15-game-off-returns-november-2018/)
 
-## Tips, tricks & bit-sized awesomeness
+## Tips, tricks & bit-sized awesomeness:
 
 - [Repl.it: Free HTTPS-ready custom domains for websites & servers](https://repl.it/talk/announcements/Free-HTTPS-ready-custom-domains-for-websites-and-servers/7766)
 - [TypeScript vs Flow](https://dev.to/stereobooster/typescript-vs-flow-1d7e)
