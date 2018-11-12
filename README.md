@@ -16,3 +16,4 @@ You can find past episodes on:
 - [YouTube](https://www.youtube.com/playlist?list=PL_gX69xPLi-mqs5BJe-xPnOPT6K1Y5_ZQ)
 - [Dev.to](https://dev.to/yamalight/)
 - [CastBox](https://castbox.fm/channel/BxJS-Weekly-id1378315)
+- [Player.fm](https://player.fm/series/bxjs-weekly)
