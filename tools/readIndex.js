@@ -1,24 +1,24 @@
-const {loadIndex} = require('./index');
-
-const index = loadIndex();
-
-const enrichResults = res =>
+const enrichResults = (res, index) =>
   res.slice(0, 5).map(({ref, score}) => ({
     ...index.documentStore.getDoc(ref),
     score,
   }));
 
-const findInTitles = title => {
-  const results = index.search(title);
-  return enrichResults(results);
+exports.findInTitles = (title, index) => {
+  const results = index.search(title, {
+    fields: {
+      title: {boost: 1},
+    },
+  });
+  return enrichResults(results, index);
 };
 
-const findInUrls = url => {
+exports.findInUrls = (url, index) => {
   const results = index.search(url, {
     fields: {
       title: {boost: 0},
       urls: {boost: 1},
     },
   });
-  return enrichResults(results);
+  return enrichResults(results, index);
 };

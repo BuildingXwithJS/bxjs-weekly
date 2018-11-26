@@ -19,6 +19,7 @@
   "homepage": "https://github.com/BuildingXwithJS/bxjs-weekly#readme",
   "dependencies": {
     "elasticlunr": "^0.9.5",
+    "fast-levenshtein": "^2.0.6",
     "highland": "^2.13.0",
     "md-2-json": "^1.0.5"
   }
