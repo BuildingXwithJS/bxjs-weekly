@@ -40,6 +40,7 @@ _(readDir(linksPath))
       .map(text => ({text, filename}));
   })
   .flatMap(({text, filename}) => {
+    const [, episodeName] = /\d+-\d+-(.+?)\./.exec(filename);
     const [name, linksText] = text.split(/:\n/g);
     if (!linksText) {
       console.error('Error processing file:', filename, 'section:', text);
@@ -60,6 +61,8 @@ _(readDir(linksPath))
           category: sectionName,
           title,
           urls: urls.join(', '),
+          filename,
+          episodeName,
         };
       });
   })
