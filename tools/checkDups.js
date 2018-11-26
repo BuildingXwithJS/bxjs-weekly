@@ -43,7 +43,7 @@ const prettyPrintByUrls = dup => {
 
 const prettyPrintDuplicate = dup => {
   console.log(`
-Possible duplicate:
+${dup.levels.includes('error') ? 'EXACT MATCH DETECTED:' : 'Possible duplicate:'}
 
 New document: 
 
@@ -72,8 +72,9 @@ const run = async () => {
     .toPromise(Promise);
   console.log('Successfully generated index!');
 
-  const files = await readDir(linksPath);
+  const files = (await readDir(linksPath)).sort((a, b) => a.localeCompare(b));
   const lastFile = files.pop();
+  let shouldThrow = false;
   const res = await fileToContent(lastFile, linksPath)
     .flatMap(content => fileToDocuments(content))
     .flatMap(doc => {
@@ -102,11 +103,15 @@ const run = async () => {
     .filter(result => result)
     .each(duplicate => {
       if (duplicate.levels.includes('error')) {
-        console.error(duplicate);
-        throw new Error('Possible duplicate detected!');
+        shouldThrow = true;
       }
 
       prettyPrintDuplicate(duplicate);
+    })
+    .done(() => {
+      if (shouldThrow) {
+        throw new Error('Possible duplicate detected!');
+      }
     });
 };
 

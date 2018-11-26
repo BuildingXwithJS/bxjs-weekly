@@ -68,6 +68,7 @@ exports.fileToDocuments = ({text, filename}) => {
 
 exports.folderToDocuments = (linksPath, {arrayMod = defaultArrayMod} = {}) =>
   _(readDir(linksPath))
+    .map(arr => arr.sort((a, b) => a.localeCompare(b)))
     .flatMap(arr => _(arrayMod(arr)))
     .flatMap(filepath => exports.fileToContent(filepath, linksPath))
     .flatMap(file => exports.fileToDocuments(file));
