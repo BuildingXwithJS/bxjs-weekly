@@ -4,7 +4,8 @@
   "description": "This repository contains links collection for weekly javascript news podcast - **BxJS Weekly**.",
   "main": "index.js",
   "scripts": {
-    "test": "node tools/checkDups.js"
+    "test": "node tools/checkDups.js",
+    "generateindex": "node tools/generateFullIndex.js"
   },
   "repository": {
     "type": "git",
