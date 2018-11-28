@@ -3,20 +3,18 @@ language: node_js
 node_js: lts/dubnium
 
 before_deploy:
-  # generate new index file
   - npm run generateindex
-  # Set up git user name and tag this commit
   - git config --local user.name "Tim Ermilov"
   - git config --local user.email "yamalight@gmail.com"
-  # generate new tag
   - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
-  # create new release tag
   - git tag $TRAVIS_TAG
 
 deploy:
   provider: releases
-  api_key: 'GITHUB OAUTH TOKEN'
-  file: 'index.json'
+  api_key:
+    secure: rsPABVlpK2NdWcJ7OYRW9rdRbFoiTJ7lVCrLyXy4CfKrKbjkxV3jGi2a4HHuSzg7iEYIq8ghx7w7WG+/8juB2yG5qQdlUWyjtJr7LDM5tgQT4mXNPNcQ/IHwQfkdRW6UjIG2hWH1x91LX9r4/aiaes2sOmF9yP4Io+ir62LQXCGyLLpKcwWNbAHVMsnmxT6Rl5m5FJy3c0ycMpfXpjMrFTEr/ozVwoQYS8246nxhAxKot1/adzeAgdnGqC+quXaO7/B+4P3tVuexUhizcCJfA8bUutnVZkZkvyRSvtBmxjPFDBG4bdHXnW5uk7BshAnvvgVU4WR1ZYS2arRo/V+t2YKdpBAVRwm+tn4haWXNv+8d3+3lMsSPEvMwK/vOQ8LE8W1O5oRWTKFfTSYo2qnzfWvoU5UE6RjWsLua8m0YNLg5qPDwBE/JwAIerRoikKrxK4Y14F6tfdCvwiE9gB8ve8wX0So24mnDrTCXgMp0KwHRKtMxUyqtpw77LSQsC8cHeyuQgZKmIvq1O/t+YS0hgVMN+zGFoqajjdFB7MkQ/iR2CISCxtztXZvNCHbjkrrZVJdhi5rlLDMUKJQNCJgVvhCjAihwRLVcHufk0qFRSVfinNM+3JfrsFGpZLMiKctDMseBygkhwXp8D84zZqT6MaGX4avTzfNfgwW7sntwqEQ=
+  file: index.json
   skip_cleanup: true
   on:
     branch: master
+    repo: BuildingXwithJS/bxjs-weekly
