@@ -4,7 +4,7 @@
   "description": "This repository contains links collection for weekly javascript news podcast - **BxJS Weekly**.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tools/checkDups.js"
   },
   "repository": {
     "type": "git",
