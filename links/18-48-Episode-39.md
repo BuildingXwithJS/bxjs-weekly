@@ -57,7 +57,6 @@
 - [refract](https://refract.js.org/)
 - [jest-electron-runner](https://github.com/facebook-atom/jest-electron-runner)
 - [hardtack](https://github.com/alik0211/hardtack)
-- [constate](https://github.com/diegohaz/constate)
 - [scrollpup.js](https://flouthoc.github.io/scrollpup.js/)
 - [whitebophir](https://github.com/lovasoa/whitebophir)
 - [NES.css](https://bcrikko.github.io/NES.css/)
