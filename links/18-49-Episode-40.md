@@ -5,7 +5,6 @@
 - [Speeding up spread elements](https://v8.dev/blog/spread-elements)
 - [You may not need Axios](https://danlevy.net/you-may-not-need-axios/)
 - [Finding Photos on Twitter Using Face Recognition With TensorFlow.js](http://jamesthom.as/blog/2018/10/30/finding-photos-on-twitter-using-face-recognition/)
-- [After two years with TypeScript – was it worth it?](https://ecom.software/after-two-years-with-typescript-was-it-worth-it/)
 - [A crash course on serverless-side rendering with React.js, Next.js and AWS Lambda](https://dev.to/adnanrahic/a-crash-course-on-serverless-side-rendering-with-reactjs-nextjs-and-aws-lambda-13ed)
 - [Build Rails like console in Nodejs](https://blog.kiprosh.com/build-rails-like-console-in-nodejs-5c0512d7c97a7774b32b043c/)
 - [Setting up webpack 4 for a project](https://dev.to/teroauralinna/setting-up-webpack-4-for-a-project-5f5e)
@@ -45,7 +44,6 @@
 - [debugtron](https://github.com/pd4d10/debugtron)
 - [pikapkg](https://twitter.com/FredKSchott/status/1069979546026369024?s=09)
 - [primereact](https://github.com/primefaces/primereact)
-- [graphql-editor](https://github.com/slothking-online/graphql-editor)
 - [reinspect](https://github.com/troch/reinspect)
 - [foy](https://github.com/zaaack/foy)
 - [Mhysa](https://github.com/Wenzil/Mhysa)
@@ -56,7 +54,6 @@
 - [plazar-js](https://github.com/ProticM/plazar-js)
 - [rallax](https://chriscavs.github.io/rallax-demo/)
 - [grant](https://github.com/simov/grant)
-- [chae-limitrr](https://github.com/eddiejibson/chae-limitrr)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 
 ## Interesting & silly stuff:
