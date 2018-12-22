@@ -44,7 +44,6 @@
 - [extract-date](https://github.com/gajus/extract-date)
 - [arg](https://github.com/zeit/arg)
 - [mri](https://github.com/lukeed/mri)
-- [spacetime](https://github.com/spencermountain/spacetime)
 - [prime](https://github.com/birkir/prime)
 - [Sandspiel](https://sandspiel.club/)
 
