@@ -1,7 +1,7 @@
 ## Articles & News:
 
 - [Pointer events with React — The why, how, what?](https://medium.com/@wesharehoodies/pointer-events-with-react-the-why-how-what-617a5b51dbb2)
-- [Building an Image Editor with Canvas API](https://www.edwardshu.com/web/angular/hammerjs/2018/07/06/Image-Annotation.html)
+- [Building an Image Editor with Canvas API](https://edwardshu.com/posts/image-annotation)
 - [The End of Life of Internet Explorer 11](https://medium.com/@burger.neal/the-end-of-life-of-internet-explorer-11-12736f9ff75f)
 - [JavaScript Essentials: The Engine](https://www.rainerhahnekamp.com/en/javascript-essentials-the-engine/)
 - [Ember Two Years On](https://dev.to/jamesbyrne/ember-two-years-on-ele)
