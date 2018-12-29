@@ -11,7 +11,6 @@
 
 ## Tips, tricks & bit-sized awesomeness:
 
-- [Understanding npm-link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
 - [Ten years ago Chrome had zero percent market share](https://twitter.com/codinghorror/status/1076254949426683904?s=09)
 - [Setting up a `npx username` card!](https://dev.to/wuz/setting-up-a-npx-username-card-1pip)
 - [Mini function of the day: `nextEvent()`](https://twitter.com/DasSurma/status/1078375282183151617?s=09)
@@ -28,7 +27,6 @@
 
 ## Libs & demos:
 
-- [money-clip](https://github.com/HenrikJoreteg/money-clip)
 - [layout-architect](https://github.com/krasimir/layout-architect)
 - [wiv.js](https://jjkaufman.github.io/wiv.js/)
 - [react-kawaii](https://react-kawaii.now.sh/)
