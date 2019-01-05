@@ -1,7 +1,6 @@
 ## Articles & News:
 
 - [Improve React Performance using Lazy Loading💤 and Suspense](https://blog.bitsrc.io/improve-react-performance-using-lazy-loading-and-suspense-933903171954)
-- [State Manager Alternative: A simple, old-school library](https://itnext.io/state-manager-alternative-a-simple-old-school-library-b06893f4974c)
 - [The Chronicles of JavaScript Objects](https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66)
 - [Infinite Data Structures In JavaScript](https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb)
 - [Reactivity with RxJS: force press](https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295)
