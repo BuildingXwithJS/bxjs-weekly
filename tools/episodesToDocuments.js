@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const {promisify} = require('util');
 const _ = require('highland');
-const {index, indexPath} = require('./index');
 
 // promisified functions
 const readDir = promisify(fs.readdir);
@@ -58,6 +57,7 @@ exports.fileToDocuments = ({text, filename}) => {
             category: sectionName,
             title,
             urls: urls.join(', '),
+            urlsSet: urls,
             filename,
             episodeName,
           };

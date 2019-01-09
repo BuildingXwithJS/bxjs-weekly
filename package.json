@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "node tools/checkDups.js",
-    "generateindex": "node tools/generateFullIndex.js"
+    "generate": "npm run generatedata && npm run generatepdf",
+    "generatedata": "node tools/generateDataFile.js",
+    "generatepdf": "node tools/generatePDFFile.js"
   },
   "repository": {
     "type": "git",
@@ -19,9 +21,12 @@
   },
   "homepage": "https://github.com/BuildingXwithJS/bxjs-weekly#readme",
   "dependencies": {
+    "commonmark": "^0.28.1",
     "elasticlunr": "^0.9.5",
     "fast-levenshtein": "^2.0.6",
     "highland": "^2.13.0",
-    "md-2-json": "^1.0.5"
+    "md-2-json": "^1.0.5",
+    "pdfkit": "^0.8.3",
+    "pdfkit-commonmark": "^0.2.0"
   }
 }
