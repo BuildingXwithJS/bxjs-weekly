@@ -9,7 +9,6 @@ const {findInTitles, findInUrls} = require('./readIndex');
 
 // promisified functions
 const readDir = promisify(fs.readdir);
-const readFile = promisify(fs.readFile);
 
 // paths
 const linksPath = path.join(__dirname, '..', 'links');
