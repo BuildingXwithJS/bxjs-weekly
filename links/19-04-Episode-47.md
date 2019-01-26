@@ -36,7 +36,6 @@
 
 ## Releases:
 
-- [Atom 1.34](https://blog.atom.io/2019/01/08/atom-1-34.html)
 - [Prettier 1.16](https://prettier.io/blog/2019/01/20/1.16.0.html)
 - [neutralino.js v1.1.0](https://github.com/neutralinojs/neutralinojs/releases/tag/v1.1.0)
 - [Babel 7.3.0](https://twitter.com/NicoloRibaudo/status/1087473662696017922?s=09)
