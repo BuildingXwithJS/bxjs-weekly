@@ -45,7 +45,6 @@
 
 - [overmind.js](https://overmindjs.org/)
 - [blockade](https://github.com/TypeError/blockade)
-- [forgJs](https://github.com/oussamahamdaoui/forgJs)
 - [flexsearch](https://github.com/nextapps-de/flexsearch)
 - [ink](https://github.com/vadimdemedes/ink)
 - [mintable](https://github.com/kevinschaich/mintable)
