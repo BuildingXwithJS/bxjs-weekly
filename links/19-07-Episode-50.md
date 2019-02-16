@@ -29,7 +29,6 @@
 - [Early demo of the new React DevTools](https://www.reddit.com/r/reactjs/comments/aq1g6w/early_demo_of_the_new_react_devtools/)
 - [Inspectable complex hook values landed in DevTools rewrite](https://twitter.com/brian_d_vaughn/status/1096286056905752576?s=12)
 - [PSA: `koa-router` was just transferred to a relatively unknown user on GitHub and the package name was apparently sold](https://github.com/nodejs/package-maintenance/issues/77#issuecomment-463356844)
-- [ECMAScript As-Patterns for Matching and Destructuring Proposal (Stage 0)](https://github.com/zkat/proposal-as-patterns)
 
 ## Releases:
 
@@ -47,7 +46,6 @@
 - [swc](https://github.com/swc-project/swc)
 - [react-hooks-async](https://github.com/dai-shi/react-hooks-async)
 - [muster](https://github.com/dwstech/muster)
-- [role-acl](https://github.com/tensult/role-acl)
 - [nextron](https://github.com/saltyshiomix/nextron)
 - [linaria](https://linaria.now.sh/)
 - [react.explore-tech.org](https://react.explore-tech.org/)
