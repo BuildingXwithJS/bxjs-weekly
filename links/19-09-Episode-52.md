@@ -1,0 +1,76 @@
+## Articles & News:
+
+- [How do I create thumbnails when I upload a video? aws lambda!](https://dev.to/benjaminadk/how-do-i-create-thumbnails-when-i-upload-a-video-aws-lambda-7l4)
+- [Mocking with callbacks in Jest](https://dev.to/jhotterbeekx/mocking-with-callbacks-in-jest-2423)
+- [Alternatives to JSX](https://blog.bloomca.me/2019/02/23/alternatives-to-jsx.html)
+- [CPU and I/O performance diagnostics in Node.js](https://medium.com/the-node-js-collection/cpu-and-i-o-performance-diagnostics-in-node-js-e513ba433c39)
+- [Aurelia: How do we React?](https://aurelia.io/blog/2019/02/21/how-do-we-react-part-1/)
+- [Use Docker to Create a Node Development Environment](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/)
+- [Node.js task runners: Are they right for you?](https://blog.logrocket.com/node-js-task-runners-are-they-right-for-you-bb29ea30b7fa)
+- [Taming Complex React State with Union Types](https://www.joefiorini.com/taming-complex-state-union-types)
+- [Implementing JavaScript Promise in 70 lines of code!](https://hackernoon.com/implementing-javascript-promise-in-70-lines-of-code-b3592565af0f)
+- [React Native: the Journey of a Beginner](https://anadea.info/blog/react-native-the-journey-of-a-beginner)
+- [Server-Side Caching in Expressjs](https://blog.bitsrc.io/server-side-caching-in-expressjs-24038daec102)
+- [How to build a simple game in the browser with Phaser 3 and TypeScript](https://medium.freecodecamp.org/how-to-build-a-simple-game-in-the-browser-with-phaser-3-and-typescript-bdc94719135)
+- [JavaScript quirks in one image from the Internet](https://dev.to/mkrl/javascript-quirks-in-one-image-from-the-internet-52m7)
+- [We Need Chrome No More](https://redalemeden.com/blog/2019/we-need-chrome-no-more)
+
+## Tips, tricks & bit-sized awesomeness:
+
+- [Remove unused CSS / JavaScript code from your project](https://blog.fullstacktraining.com/remove-unused-css-javascript-code-from-your-project/)
+- [All of GitHub's menus & dialogs work without JavaScript](https://twitter.com/Keithamus/status/1098260366017134592?s=09)
+- [Since `x++` returns current `x` and _then_ increments it. But... it's not that simple.](https://twitter.com/YDKJS/status/1099716797014724608?s=09)
+- [Make your Google Fonts render faster](https://googlefonts.3perf.com/)
+- [Whoa, how did I not know about these JavaScript String methods?!](https://twitter.com/davidwalshblog/status/1099853694210920450?s=09)
+- [Disproving "browser attack lets hackers run bad code even after users leave a web page" article](https://twitter.com/jaffathecake/status/1100319347304734721?s=09)
+- [Announcing a New Management Structure for Ecma TC39](https://hacks.mozilla.org/2019/02/announcing-a-new-management-structure-for-ecma-tc39/)
+- [`await` fastification by @MayaLekova just received @TC39 blessing](https://twitter.com/bmeurer/status/1100485482117562371?s=09)
+- [Understanding the Spread Operator in JavaScript](https://dev.to/vuevixens/understanding-the-spread-operator-in-javascript-485j)
+- [Google Domains, despite its recent redesign, is actually built with Google Web Toolkit](https://twitter.com/wongmjane/status/1100733181341257728?s=09)
+- [New ECMAScript proposal: Promise.any(promises)](https://twitter.com/mathias/status/1100789614120497152)
+- [Turns out you can write a basic synchronous, DOMless React Hooks clone in 26 LOC](https://twitter.com/swyx/status/1100809424963219456?s=09)
+- [Private class fields shipped in Chrome 74](https://twitter.com/_gsathya/status/1100845457876541442?s=09)
+- [React RFC: Focus management](https://github.com/devongovett/rfcs-1/blob/patch-1/text/2019-focus-management.md)
+- [Introducing Package Diff](https://medium.com/intrinsic/introducing-package-diff-for-npm-e6487cc9b434)
+- [React Native Open Source Update March 2019](https://facebook.github.io/react-native/blog/2019/03/01/react-native-open-source-update)
+
+## Releases:
+
+- [htm 2.1](https://twitter.com/_developit/status/1100154585992347648?s=09)
+
+## Libs & demos:
+
+- [bxjs.dev](https://bxjs.dev/)
+- [zero server](https://zeroserver.io/) and [discussion on HN](https://news.ycombinator.com/item?id=19254828)
+- [buefy](https://buefy.org/)
+- [confirmation](https://github.com/f/confirmation)
+- [macacajs](https://macacajs.github.io/)
+- [nexus-di](https://github.com/danillosl/nexus-di)
+- [electron-menubar](https://github.com/rousan/electron-menubar)
+- [lofi](https://github.com/dvx/lofi)
+- [unstated-props](https://github.com/mac-r/unstated-props)
+- [react-robohash](https://github.com/fel1xw/react-robohash)
+- [arkit](https://github.com/dyatko/arkit)
+- [vscode-peacock](https://github.com/johnpapa/vscode-peacock)
+- [gpu.js](https://github.com/gpujs/gpu.js)
+- [react-circular-input](https://react-circular-input.now.sh/)
+- [30 seconds of knowledge](https://30secondsofknowledge.com/)
+- [polkadot](https://github.com/lukeed/polkadot)
+- [zeit/ms](https://github.com/zeit/ms)
+- [wait-for-localhost](https://github.com/sindresorhus/wait-for-localhost)
+- [pinipig](https://pinipig.js.org/)
+- [@pika/web](https://github.com/pikapkg/web)
+- [npmf](https://github.com/rousan/npmf)
+- [autoNumeric](https://github.com/autoNumeric/autoNumeric)
+- [DEFENDER of the favicon](http://www.p01.org/defender_of_the_favicon/)
+- [frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp)
+- [javascript-tips-and-tidbits](https://github.com/nas5w/javascript-tips-and-tidbits)
+- [css-fps](https://keithclark.co.uk/labs/css-fps/)
+
+## Interesting & silly stuff:
+
+- [My Git Aliases](https://dev.to/nickytonline/my-git-aliases-5dea)
+- [noclip.website](https://noclip.website/)
+- [0 vs null vs undefined](https://twitter.com/ddprrt/status/1074955395528040448?s=09)
+- [I think this is what they meant by "Defensive API design."](https://twitter.com/betaorbust/status/1101190139672440833?s=09)
+- [CURSED CSS TIP](https://twitter.com/chordbug/status/1101645780962734081?s=09)
