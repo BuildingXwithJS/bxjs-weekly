@@ -46,7 +46,6 @@
 - [unavatar](https://unavatar.now.sh/)
 - [frenchkiss.js](https://github.com/koala-interactive/frenchkiss.js)
 - [vectorious](https://github.com/mateogianolio/vectorious)
-- [terser](https://github.com/terser-js/terser)
 - [eslint-config-react-native-community](https://github.com/facebook/react-native/tree/master/packages/eslint-config-react-native-community)
 - [femtoJS](https://vladocar.github.io/femtoJS/)
 - [code-server](https://github.com/codercom/code-server)
