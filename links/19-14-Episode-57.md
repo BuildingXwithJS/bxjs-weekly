@@ -49,7 +49,6 @@
 - [griffith](https://github.com/zhihu/griffith)
 - [heroku-cra-node](https://github.com/mars/heroku-cra-node)
 - [water.css](https://github.com/kognise/water.css)
-- [luna](https://github.com/rvpanoz/luna)
 - [react-have-i-been-pwned](https://github.com/mxschmitt/react-have-i-been-pwned)
 - [is-online](https://github.com/sindresorhus/is-online)
 - [hyper-editor](https://github.com/divineitlimited/hyper-editor)
