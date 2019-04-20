@@ -44,7 +44,6 @@
 - [dragonbinder](https://masquerade-circus.github.io/dragonbinder/)
 - [speedy.js](https://github.com/MichaReiser/speedy.js)
 - [js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view)
-- [broadcast-channel](https://github.com/pubkey/broadcast-channel)
 - [Toasted Notes](https://toasted-notes.netlify.com/)
 - [wouter](https://github.com/molefrog/wouter)
 - [react-on-lambda](https://github.com/sultan99/react-on-lambda)
