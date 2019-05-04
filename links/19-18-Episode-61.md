@@ -70,7 +70,6 @@
 - [react-awesome-spinners](https://github.com/tienpham94/react-awesome-spinners)
 - [sparser](https://github.com/unibeautify/sparser)
 - [Base Web](https://baseweb.design/)
-- [shimport](https://github.com/Rich-Harris/shimport)
 - [textblock](https://textblock.io/)
 - [sql.js](https://github.com/kripken/sql.js)
 - [laconia](https://github.com/laconiajs/laconia)
