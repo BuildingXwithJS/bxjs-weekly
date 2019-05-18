@@ -49,7 +49,6 @@
 - [reakit](https://reakit.io/)
 - [runpkg](https://github.com/formidablelabs/runpkg)
 - [spoke by Mozilla](https://hubs.mozilla.com/spoke)
-- [devhub](https://github.com/devhubapp/devhub)
 - [stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects)
 - [sitemap.js](https://github.com/ekalinin/sitemap.js)
 - [dinoql](https://github.com/victorvoid/dinoql)
