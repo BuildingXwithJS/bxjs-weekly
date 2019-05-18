@@ -47,7 +47,6 @@
 ## Libs & demos:
 
 - [reakit](https://reakit.io/)
-- [tailwind.css](https://tailwindcss.com/)
 - [runpkg](https://github.com/formidablelabs/runpkg)
 - [spoke by Mozilla](https://hubs.mozilla.com/spoke)
 - [devhub](https://github.com/devhubapp/devhub)
