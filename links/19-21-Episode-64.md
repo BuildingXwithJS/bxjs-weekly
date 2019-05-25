@@ -44,7 +44,6 @@
 
 ## Libs & demos:
 
-- [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks)
 - [awesome-wasi](https://github.com/wasmerio/awesome-wasi)
 - [reLift-HTML](https://relift-html.js.org/)
 - [unform](https://github.com/Rocketseat/unform)
