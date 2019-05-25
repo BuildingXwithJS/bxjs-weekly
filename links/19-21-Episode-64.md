@@ -61,7 +61,6 @@
 - [react-image-magnifiers](https://github.com/adamrisberg/react-image-magnifiers)
 - [react-designer](https://github.com/react-designer/react-designer)
 - [sync-dotenv](https://github.com/codeshifu/sync-dotenv)
-- [v8n](https://github.com/imbrn/v8n)
 - [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 ## Interesting & silly stuff:
