@@ -50,15 +50,12 @@
 
 ## Libs & demos:
 
-- [crypto-hash](https://github.com/sindresorhus/crypto-hash)
-- [tiptap](https://github.com/scrumpy/tiptap)
 - [MDsveX](https://github.com/pngwn/MDsveX)
 - [react-vertex](https://github.com/sghall/react-vertex)
 - [Left](https://github.com/hundredrabbits/Left)
 - [xstyled](https://github.com/smooth-code/xstyled)
 - [codespeak](https://github.com/sethwilsonUS/codespeak)
 - [rayo.js](https://github.com/GetRayo/rayo.js)
-- [pinipig](https://github.com/jmdisuanco/pinipig)
 - [zdog](https://github.com/metafizzy/zdog)
 - [tosin](https://github.com/FullHuman/tosin)
 - [Royalbox](https://github.com/omody/Royalbox)
