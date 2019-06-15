@@ -39,7 +39,6 @@
 
 - [styled-components v5](https://twitter.com/mxstbr/status/1139541179421339648?s=09)
 - [Stencil v1.0](https://ionicframework.com/blog/introducing-stencil-one-1-0-0/)
-- [VS Code v1.35](https://code.visualstudio.com/updates/v1_35)
 - [Atom 1.38](https://blog.atom.io/2019/06/11/atom-1-38.html)
 - [React-redux v7.1.0](https://github.com/reduxjs/react-redux/releases/tag/v7.1.0)
 - [VuePress v1.0](https://v1.vuepress.vuejs.org/)
@@ -50,7 +49,6 @@
 
 - [restated](https://github.com/mardix/restated)
 - [threads.js](https://github.com/andywer/threads.js)
-- [scenejs](https://github.com/daybrush/scenejs)
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - [react-leaflet](https://react-leaflet.js.org/)
 - [use-debounce](https://github.com/xnimorz/use-debounce)
