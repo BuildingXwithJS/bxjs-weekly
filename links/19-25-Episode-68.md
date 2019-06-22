@@ -56,7 +56,6 @@
 - [react-helmet](https://github.com/nfl/react-helmet)
 - [filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor)
 - [jExcel v3](https://bossanova.uk/jexcel/v3/)
-- [smoke](https://github.com/sinclairzx81/smoke)
 - [freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js/)
 - [mimic-fn](https://github.com/sindresorhus/mimic-fn)
 - [exthouse](https://github.com/treosh/exthouse)
