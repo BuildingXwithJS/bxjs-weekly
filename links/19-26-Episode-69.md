@@ -53,7 +53,6 @@
 - [mavo](https://mavo.io/)
 - [elliptic](https://github.com/indutny/elliptic)
 - [twgl](http://twgljs.org/)
-- [grant](https://github.com/simov/grant)
 - [playclassic.games](https://playclassic.games/)
 - [em-dosbox](https://github.com/dreamlayers/em-dosbox)
 - [proposal-block-params](https://github.com/samuelgoto/proposal-block-params)
