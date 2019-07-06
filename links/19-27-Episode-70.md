@@ -36,7 +36,6 @@
 - [farmhash](https://github.com/lovell/farmhash)
 - [bounds.js](https://github.com/ChrisCavs/bounds.js)
 - [nope-validator](https://github.com/bvego/nope-validator)
-- [graspjs](http://www.graspjs.com/)
 - [proGramCLI](https://github.com/sarthology/proGramCLI)
 - [log-with-statusbar](https://github.com/ourarash/log-with-statusbar)
 - [simple-d3-heatmap](https://github.com/team-centric-software/simple-d3-heatmap)
