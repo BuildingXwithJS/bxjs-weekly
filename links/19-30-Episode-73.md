@@ -38,7 +38,6 @@
 
 - [preact-translate](https://github.com/DenysVuika/preact-translate)
 - [gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder)
-- [sqorn](https://github.com/sqorn/sqorn)
 - [sinuous](https://github.com/luwes/sinuous)
 - [pattern-extractor](https://github.com/Andrew-Kang-G/pattern-extractor)
 - [search-ui](https://github.com/elastic/search-ui)
