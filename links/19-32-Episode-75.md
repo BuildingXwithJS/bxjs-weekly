@@ -44,7 +44,6 @@
 - [mc.js](https://github.com/ian13456/mc.js)
 - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core)
 - [reactjs-videobg](https://github.com/samAbeywickrama/reactjs-videobg)
-- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin)
 - [Untrusive](https://github.com/path-of-dev/Untrusive)
 - [nodeppt.js](https://github.com/ksky521/nodeppt)
 - [cashify](https://github.com/xxczaki/cashify)
