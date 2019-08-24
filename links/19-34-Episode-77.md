@@ -55,7 +55,6 @@
 - [throttles](https://github.com/lukeed/throttles)
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library)
 - [chart.xkcd](https://github.com/timqian/chart.xkcd)
-- [v8n](https://github.com/imbrn/v8n)
 
 ## Interesting & silly stuff:
 
