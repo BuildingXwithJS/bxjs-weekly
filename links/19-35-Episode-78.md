@@ -41,7 +41,6 @@
 
 ## Libs & demos:
 
-- [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [WebCamera](https://github.com/riju/WebCamera)
 - [babel-plugin-transform-rename-properties](https://github.com/jviide/babel-plugin-transform-rename-properties)
 - [memento](https://github.com/antoinechalifour/memento)
