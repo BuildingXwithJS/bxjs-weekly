@@ -38,7 +38,6 @@
 - [chakra-ui](https://chakra-ui.com/)
 - [mali](https://github.com/malijs/mali)
 - [hashids.js](https://github.com/niieani/hashids.js)
-- [camaro](https://github.com/tuananh/camaro)
 - [bitmelo](https://bitmelo.com/)
 
 ## Interesting & silly stuff:
