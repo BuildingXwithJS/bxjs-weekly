@@ -52,7 +52,6 @@
 - [dot-rest](https://github.com/Dvs-Bilisim/dot-rest)
 - [css-camera](https://github.com/WoodNeck/css-camera)
 - [light.js](https://light.js.org/)
-- [reaviz](https://github.com/jask-oss/reaviz)
 - [emoji-button](https://github.com/joeattardi/emoji-button)
 - [vue-treeselect](https://vue-treeselect.js.org/)
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle)
