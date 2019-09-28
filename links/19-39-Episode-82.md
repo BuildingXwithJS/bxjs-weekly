@@ -40,5 +40,5 @@
 
 ## Interesting & silly stuff:
 
-- [Hacktoberfest is now open!](https://hacktoberfest.digitalocean.com/)
+- [Hacktoberfest is now open!](https://hacktoberfest.digitalocean.com/details)
 - [A new video series for beginners to learn Python programming (from Microsoft)](https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/)
