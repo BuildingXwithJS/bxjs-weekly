@@ -33,7 +33,6 @@
 - [Ant Motion](https://landing.ant.design/edit/)
 - [Library-Detector-for-Chrome](https://github.com/johnmichel/Library-Detector-for-Chrome)
 - [bullshit.js](https://github.com/mourner/bullshit.js)
-- [sinuous](https://github.com/luwes/sinuous)
 - [Woah.css](https://www.joerezendes.com/projects/Woah.css/)
 - [dial](https://github.com/victorqribeiro/dial)
 - [painterro](https://github.com/devforth/painterro)
