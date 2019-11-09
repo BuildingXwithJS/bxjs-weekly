@@ -8,7 +8,6 @@
 - [Build your own React in 90 lines of JavaScript](https://dev.to/ameerthehacker/build-your-own-react-in-90-lines-of-javascript-1je2)
 - [Easier Node.js streams via async iteration](https://2ality.com/2019/11/nodejs-streams-async-iteration.html)
 - [Building a responsive camera component with React Hooks](https://blog.logrocket.com/responsive-camera-component-react-hooks/)
-- [Creating of neural network using JavaScript in 7 minutes!](https://dev.to/liashchynskyi/creating-of-neural-network-using-javascript-in-7minutes-o21)
 - [How to Enable React Concurrent Mode](https://kentcdodds.com/blog/how-to-enable-react-concurrent-mode)
 - [How to Build Your First Discord Bot with Node.js](https://www.sitepoint.com/discord-bot-node-js/)
 
