@@ -45,7 +45,6 @@
 - [animavita](https://github.com/wendelfreitas/animavita)
 - [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
 - [react-screenshot-test](https://github.com/fwouts/react-screenshot-test)
-- [xmysql](https://github.com/o1lab/xmysql)
 - [linkinator](https://github.com/JustinBeckwith/linkinator)
 
 ## Interesting & silly stuff:
