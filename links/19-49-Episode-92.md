@@ -1,7 +1,6 @@
 ## Getting started:
 
 - [Backreferences in JavaScript regular expressions](https://www.stefanjudis.com/today-i-learned/backreferences-in-javascript-regular-expressions/)
-- [Natural language processing for Node.js](https://blog.logrocket.com/natural-language-processing-for-node-js/)
 - [Time Series Forecasting with TensorFlow.js](https://towardsdatascience.com/time-series-forecasting-with-tensorflow-js-1efd48ff2201)
 - [Building a Telegram Bot with Node.js](https://blog.soshace.com/building-a-telegram-bot-with-node-js/)
 
