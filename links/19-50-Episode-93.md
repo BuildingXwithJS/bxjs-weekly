@@ -11,7 +11,6 @@
 
 - [The Difference Between Node.js 10 LTS and Node.js 12 LTS](https://nodejs.org/en/blog/uncategorized/10-lts-to-12-lts/)
 - [Microfrontends based on React](https://dev.to/florianrappl/microfrontends-based-on-react-4oo9)
-- [React Native Memory profiling (JSC vs V8 vs Hermes)](https://medium.com/walmartlabs/react-native-memory-profiling-jsc-vs-v8-vs-hermes-1626949a653b)
 - [How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
 - [The Problem with React's Context API](https://leewarrick.com/blog/the-problem-with-context/)
 
@@ -42,7 +41,6 @@
 - [app-intro-lottie-expo](https://github.com/yhenni1989/app-intro-lottie-expo)
 - [anzip](https://github.com/mikbry/anzip)
 - [react-tabs](https://github.com/reactjs/react-tabs)
-- [gluegun](https://github.com/infinitered/gluegun)
 
 ## Interesting & silly stuff:
 
