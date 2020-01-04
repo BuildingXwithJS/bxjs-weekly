@@ -7,7 +7,6 @@
 - [I only use an iFrame to crawl and scrape content](http://www.airovic.com/itsjustaniframe.html)
 - [How Positive was Your Year with TensorFlow.js and Twilio](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
 - [On let vs const](https://overreacted.io/on-let-vs-const/)
-- [Progressive React](https://houssein.me/progressive-react)
 - [What Is JavaScript Made Of?](https://overreacted.io/what-is-javascript-made-of/)
 
 ## Articles & News:
