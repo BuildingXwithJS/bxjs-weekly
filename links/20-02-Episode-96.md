@@ -34,13 +34,13 @@
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next)
 - [snowpack](https://www.snowpack.dev/)
 - [exifer](https://github.com/terkelg/exifer)
-- [mobile-first-animation](https://github.com/aholachek/mobile-first-animation)
 - [ward](https://github.com/ColinEspinas/ward)
 - [craft.js](https://github.com/prevwong/craft.js)
 - [excalidraw](https://github.com/excalidraw/excalidraw)
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript)
 - [react-typescript-chrome-extension-starter](https://github.com/aeksco/react-typescript-chrome-extension-starter)
 - [ipod-classic-js](https://github.com/tvillarete/ipod-classic-js)
+- [postgres](https://github.com/porsager/postgres)
 - [deno.town](https://deno.town/)
 
 ## Interesting & silly stuff:
