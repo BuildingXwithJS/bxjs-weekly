@@ -29,7 +29,6 @@
 - [miragejs](https://miragejs.com/)
 - [react-nice-dates](https://github.com/hernansartorio/react-nice-dates)
 - [calendarize](https://github.com/lukeed/calendarize)
-- [nuclear](https://github.com/nukeop/nuclear)
 - [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar)
 - [spectacle](https://github.com/FormidableLabs/spectacle)
 - [blake3](https://github.com/connor4312/blake3)
