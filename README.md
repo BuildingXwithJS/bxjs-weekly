@@ -9,7 +9,7 @@ Episodes are named according to `YY-WW-Episode-N` [pattern](https://github.com/B
 
 ## Media
 
-The podcast happens live on [twitch](https://www.twitch.tv/yamalight) every weekend (typically on Saturdays, 20:00 Berlin time).
+The podcast happens live on [twitch](https://www.twitch.tv/yamalight) every weekend (typically on Saturdays, 13:00 Berlin time).
 
 You can find past episodes on:
 
